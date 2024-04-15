@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+div#backFlex {
+    display: flex;
+    align-items: center;
+}
+
+.header .btn-getstarted, .header .btn-getstarted:focus {    
+    margin-left: 25px;   
+}
+
+.header { 
+    padding: 14px 15px;   
+}
